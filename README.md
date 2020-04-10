@@ -2,7 +2,7 @@
 
 This repository contains my coursework as 2nd year BSc in HSE. The objective was to create an app for cloud segmentation using 7 bands of Landsat 8 satellite. The proposed solution takes as input first 7 bands from the Landsat 8 and builds a segmentatino mask, using a bland of Unet and DeconvNet architectures.
 
-[]!(images/arch.png)
+![](images/arch.png)
 
 
 
