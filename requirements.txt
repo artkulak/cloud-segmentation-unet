@@ -1,0 +1,7 @@
+pillow
+tensorflow
+keras
+numpy
+matplotlib
+ttkthemes
+scipy
