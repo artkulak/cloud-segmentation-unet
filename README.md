@@ -1,10 +1,14 @@
 # Cloud Segmentation with Unet
 
-This repository contains my coursework as 2nd year BSc in HSE. The objective was to create an app for cloud segmentation using 7 bands of Landsat 8 satellite. The proposed solution takes as input first 7 bands from the Landsat 8 and builds a segmentatino mask, using a bland of Unet and DeconvNet architectures.
+This repository contains my coursework as 2nd year BSc in HSE. The objective was to create an app for cloud segmentation using 7 bands of Landsat 8 satellite. The proposed solution takes as input first 7 bands from the Landsat 8 and builds a segmentation mask, using a blend of Unet and DeconvNet architectures.
 
 ![](images/arch.png)
 
+Using the app you can visualize masks, from any zip file in `val/` directory.
+Here is how the visualized mask will look like:
 
+
+![](images/app.png)
 
 ## Instructions
 1. Create "input" folder in the main directory and place input files into the folder.
